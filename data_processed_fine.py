@@ -19,7 +19,6 @@ ner_pipeline = pipeline(
     aggregation_strategy="simple"
 )
 
-# 加载CoNLL2003数据集
 dataset = load_dataset("conll2003")
 
 # 定义标签映射
@@ -39,7 +38,6 @@ def extract_entities_with_bert(tokens):
     for pred in predictions:
         entity_type = pred["entity_group"]
         if entity_type in label_mapping:
-            # 按照您要求的 [text, type] 格式
             entities.append([
                 pred["word"],  # 实体文本
                 entity_type    # 实体类型
@@ -55,10 +53,9 @@ for split in ["train", "validation", "test"]:
         try:
             input_text, entities = extract_entities_with_bert(tokens)
             
-            # 完全按照您指定的格式
             results.append({
                 "input_text": input_text,
-                "entities": entities  # 格式: [ [text, type], ... ]
+                "entities": entities 
             })
         except Exception as e:
             print(f"处理样本时出错: {str(e)}")
