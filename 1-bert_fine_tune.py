@@ -21,7 +21,7 @@ id2label = {i: l for i, l in enumerate(label_list)}
 # 4. 加载tokenizer
 tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
 
-# 5. 改进的预处理函数（关键修复）
+# 5. 改进的预处理函数
 def tokenize_and_align_labels(examples):
     tokenized_inputs = tokenizer(
         examples["tokens"],
@@ -71,7 +71,7 @@ def tokenize_and_align_labels(examples):
 # 6. 应用预处理
 tokenized_datasets = dataset.map(tokenize_and_align_labels, batched=True)
 
-# 7. 加载模型（确保标签数量正确）
+# 7. 加载模型
 model = AutoModelForTokenClassification.from_pretrained(
     "bert-base-cased",
     num_labels=len(label_list),
@@ -108,7 +108,7 @@ training_args = TrainingArguments(
     output_dir="./results",
     evaluation_strategy="epoch",
     learning_rate=2e-5,
-    per_device_train_batch_size=8,  # 减小batch size以防内存不足
+    per_device_train_batch_size=8,  
     per_device_eval_batch_size=8,
     num_train_epochs=3,
     weight_decay=0.01,
@@ -118,7 +118,7 @@ training_args = TrainingArguments(
     logging_dir="./logs",
     logging_steps=10,
     report_to="none",
-    fp16=torch.cuda.is_available(),  # 启用混合精度训练
+    fp16=torch.cuda.is_available(), 
 )
 
 # 10. 创建Trainer
@@ -130,7 +130,7 @@ trainer = Trainer(
     compute_metrics=compute_metrics,
 )
 
-# 11. 开始训练（添加错误处理）
+# 11. 开始训练
 try:
     print("Starting training...")
     trainer.train()

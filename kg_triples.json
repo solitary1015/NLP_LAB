@@ -1,0 +1,702 @@
+[
+  {
+    "head": "Lazio",
+    "relation": "related_to",
+    "tail": "Pavel Nedved"
+  },
+  {
+    "head": "Carlos Belo",
+    "relation": "related_to",
+    "tail": "Dili"
+  },
+  {
+    "head": "Bill Brett",
+    "relation": "related_to",
+    "tail": "Reuters"
+  },
+  {
+    "head": "Ronny Wabia",
+    "relation": "plays_for",
+    "tail": "Indonesia"
+  },
+  {
+    "head": "Commission",
+    "relation": "affiliated_with",
+    "tail": "Britain"
+  },
+  {
+    "head": "Office",
+    "relation": "affiliated_with",
+    "tail": "State Council"
+  },
+  {
+    "head": "ADRs",
+    "relation": "located_in",
+    "tail": "New York"
+  },
+  {
+    "head": "Light",
+    "relation": "affiliated_with",
+    "tail": "Nigeria"
+  },
+  {
+    "head": "Blend",
+    "relation": "affiliated_with",
+    "tail": "Algeria"
+  },
+  {
+    "head": "PT Tambang Timah",
+    "relation": "related_to",
+    "tail": "London"
+  },
+  {
+    "head": "South Korea",
+    "relation": "related_to",
+    "tail": "Indonesia"
+  },
+  {
+    "head": "JCPenney Classic",
+    "relation": "located_in",
+    "tail": "Innisbrook Hilton Resort"
+  },
+  {
+    "head": "Fini",
+    "relation": "related_to",
+    "tail": "RAI"
+  },
+  {
+    "head": "Barrick",
+    "relation": "travels_to",
+    "tail": "Toronto"
+  },
+  {
+    "head": "Italy",
+    "relation": "related_to",
+    "tail": "Salomon"
+  },
+  {
+    "head": "Jason Little",
+    "relation": "related_to",
+    "tail": "Twickenham"
+  },
+  {
+    "head": "League",
+    "relation": "affiliated_with",
+    "tail": "Suu Kyi"
+  },
+  {
+    "head": "United City Bank",
+    "relation": "located_in",
+    "tail": "Moscow"
+  },
+  {
+    "head": "School",
+    "relation": "located_in",
+    "tail": "Albuquerque"
+  },
+  {
+    "head": "Cuo Dan",
+    "relation": "related_to",
+    "tail": "Xu Nannan"
+  },
+  {
+    "head": "Bolger",
+    "relation": "affiliated_with",
+    "tail": "NZ"
+  },
+  {
+    "head": "R. Ponting",
+    "relation": "related_to",
+    "tail": "McLean"
+  },
+  {
+    "head": "Rashid",
+    "relation": "related_to",
+    "tail": "Greece"
+  },
+  {
+    "head": "Fos",
+    "relation": "related_to",
+    "tail": "Exxon"
+  },
+  {
+    "head": "Santa Fe",
+    "relation": "related_to",
+    "tail": "Newmont Mining Corp"
+  },
+  {
+    "head": "Guilin",
+    "relation": "affiliated_with",
+    "tail": "China"
+  },
+  {
+    "head": "Nevada",
+    "relation": "affiliated_with",
+    "tail": "Santa Fe"
+  },
+  {
+    "head": "Chen Gang",
+    "relation": "related_to",
+    "tail": "Martin Londgaard Hansen"
+  },
+  {
+    "head": "Minas",
+    "relation": "affiliated_with",
+    "tail": "Indonesia"
+  },
+  {
+    "head": "Zieleniec",
+    "relation": "related_to",
+    "tail": "Reuters"
+  },
+  {
+    "head": "Grove",
+    "relation": "related_to",
+    "tail": "Crofts"
+  },
+  {
+    "head": "VIEIRA",
+    "relation": "related_to",
+    "tail": "ARSENAL"
+  },
+  {
+    "head": "Light",
+    "relation": "affiliated_with",
+    "tail": "Saudi Arabia"
+  },
+  {
+    "head": "Oceanic Control Centre",
+    "relation": "located_in",
+    "tail": "Prestwick"
+  },
+  {
+    "head": "Josef Zieleniec",
+    "relation": "related_to",
+    "tail": "Reuters"
+  },
+  {
+    "head": "League",
+    "relation": "affiliated_with",
+    "tail": "European Champions ' League"
+  },
+  {
+    "head": "United States",
+    "relation": "related_to",
+    "tail": "Rashid"
+  },
+  {
+    "head": "Kofi Annan",
+    "relation": "affiliated_with",
+    "tail": "Ghana"
+  },
+  {
+    "head": "Agency",
+    "relation": "affiliated_with",
+    "tail": "Japan"
+  },
+  {
+    "head": "Sun Jun",
+    "relation": "related_to",
+    "tail": "Allan Budi Kusuma"
+  },
+  {
+    "head": "Susi Susanti",
+    "relation": "related_to",
+    "tail": "Camilla Martin"
+  },
+  {
+    "head": "JAPAN",
+    "relation": "related_to",
+    "tail": "CHINA"
+  },
+  {
+    "head": "Bala Naidoo",
+    "relation": "related_to",
+    "tail": "Reuters"
+  },
+  {
+    "head": "Tass",
+    "relation": "related_to",
+    "tail": "Livshits"
+  },
+  {
+    "head": "Fung Permadi",
+    "relation": "related_to",
+    "tail": "Indra Wijaya"
+  },
+  {
+    "head": "Javier Clemente",
+    "relation": "related_to",
+    "tail": "Armando Alvarez"
+  },
+  {
+    "head": "David Dofara",
+    "relation": "related_to",
+    "tail": "Reuters"
+  },
+  {
+    "head": "Belo",
+    "relation": "affiliated_with",
+    "tail": "Indonesia"
+  },
+  {
+    "head": "Ivanov",
+    "relation": "related_to",
+    "tail": "Interfax"
+  },
+  {
+    "head": "Glencoe Animal Hospital",
+    "relation": "located_in",
+    "tail": "Columbus"
+  },
+  {
+    "head": "Bitar",
+    "relation": "located_in",
+    "tail": "Miura"
+  },
+  {
+    "head": "Consumer Project on Technology",
+    "relation": "located_in",
+    "tail": "Consumer Project on Technology"
+  },
+  {
+    "head": "Eyles",
+    "relation": "related_to",
+    "tail": "Peter Nicol"
+  },
+  {
+    "head": "Peter Nicol",
+    "relation": "related_to",
+    "tail": "Simon Parke"
+  },
+  {
+    "head": "Peters",
+    "relation": "affiliated_with",
+    "tail": "NZ"
+  },
+  {
+    "head": "PKK",
+    "relation": "related_to",
+    "tail": "Turkey"
+  },
+  {
+    "head": "Peters",
+    "relation": "related_to",
+    "tail": "Nat"
+  },
+  {
+    "head": "Timah",
+    "relation": "located_in",
+    "tail": "GMT"
+  },
+  {
+    "head": "Homestake",
+    "relation": "located_in",
+    "tail": "United States"
+  },
+  {
+    "head": "Syria",
+    "relation": "related_to",
+    "tail": "PKK"
+  },
+  {
+    "head": "Pace",
+    "relation": "travels_to",
+    "tail": "Ohio State"
+  },
+  {
+    "head": "Conservatives",
+    "relation": "affiliated_with",
+    "tail": "Major"
+  },
+  {
+    "head": "PT Tambang Timah",
+    "relation": "located_in",
+    "tail": "GMT"
+  },
+  {
+    "head": "Putra",
+    "relation": "affiliated_with",
+    "tail": "Indonesia"
+  },
+  {
+    "head": "Ye Zhaoying",
+    "relation": "related_to",
+    "tail": "Meiluawati"
+  },
+  {
+    "head": "Antonio Tartaglia",
+    "relation": "located_in",
+    "tail": "Italy"
+  },
+  {
+    "head": "Helmut Kohl",
+    "relation": "located_in",
+    "tail": "Bonn"
+  },
+  {
+    "head": "PT Telekomunikasi Indonesia",
+    "relation": "related_to",
+    "tail": "London"
+  },
+  {
+    "head": "Juana",
+    "relation": "affiliated_with",
+    "tail": "Venezuela"
+  },
+  {
+    "head": "Havel",
+    "relation": "related_to",
+    "tail": "Albright"
+  },
+  {
+    "head": "Axel Schulz",
+    "relation": "related_to",
+    "tail": "Jose Ribalta"
+  },
+  {
+    "head": "Movement",
+    "relation": "affiliated_with",
+    "tail": "Vladimir Meciar"
+  },
+  {
+    "head": "Australia",
+    "relation": "related_to",
+    "tail": "Barbarians"
+  },
+  {
+    "head": "Kuwait",
+    "relation": "located_in",
+    "tail": "Indonesia"
+  },
+  {
+    "head": "Rodney Eyles",
+    "relation": "related_to",
+    "tail": "Mark Cairns"
+  },
+  {
+    "head": "PSV",
+    "relation": "located_in",
+    "tail": "Volendam"
+  },
+  {
+    "head": "Ye Zhaoying",
+    "relation": "related_to",
+    "tail": "Gong Zhichao"
+  },
+  {
+    "head": "Sun Jun",
+    "relation": "related_to",
+    "tail": "Rashid Sidek"
+  },
+  {
+    "head": "Atalanta",
+    "relation": "travels_to",
+    "tail": "Filippo Inzaghi"
+  },
+  {
+    "head": "Ribalta",
+    "relation": "affiliated_with",
+    "tail": "Cuba"
+  },
+  {
+    "head": "Tolonics",
+    "relation": "affiliated_with",
+    "tail": "Budapest Bank"
+  },
+  {
+    "head": "Vincent",
+    "relation": "affiliated_with",
+    "tail": "Philadelphia"
+  },
+  {
+    "head": "Bean",
+    "relation": "affiliated_with",
+    "tail": "Canada"
+  },
+  {
+    "head": "WTO",
+    "relation": "plays_for",
+    "tail": "Singapore"
+  },
+  {
+    "head": "Belo",
+    "relation": "related_to",
+    "tail": "Vatican"
+  },
+  {
+    "head": "Mahammad Rashid",
+    "relation": "travels_to",
+    "tail": "Athens"
+  },
+  {
+    "head": "Texas",
+    "relation": "located_in",
+    "tail": "USDA"
+  },
+  {
+    "head": "Nats",
+    "relation": "related_to",
+    "tail": "NZ First"
+  },
+  {
+    "head": "Hermawan Susanto",
+    "relation": "related_to",
+    "tail": "Soren B. Nielsen"
+  },
+  {
+    "head": "Russia",
+    "relation": "related_to",
+    "tail": "Norilsk"
+  },
+  {
+    "head": "Isthmus",
+    "relation": "affiliated_with",
+    "tail": "Mexico"
+  },
+  {
+    "head": "Indra Wijaya",
+    "relation": "related_to",
+    "tail": "Ong Ewe Hock"
+  },
+  {
+    "head": "Oceanic Control Centre",
+    "relation": "located_in",
+    "tail": "Scotland"
+  },
+  {
+    "head": "Gong Zhichao",
+    "relation": "related_to",
+    "tail": "Mia Audina"
+  },
+  {
+    "head": "TOPS",
+    "relation": "affiliated_with",
+    "tail": "Ahold"
+  },
+  {
+    "head": "Goran Ivanisevic",
+    "relation": "related_to",
+    "tail": "Mark Woodforde"
+  },
+  {
+    "head": "Arafat",
+    "relation": "related_to",
+    "tail": "Cairo"
+  },
+  {
+    "head": "Portugal",
+    "relation": "related_to",
+    "tail": "Joao Manuel Pinto"
+  },
+  {
+    "head": "Australian",
+    "relation": "related_to",
+    "tail": "Mark Cairns"
+  },
+  {
+    "head": "Australia",
+    "relation": "related_to",
+    "tail": "West Indies"
+  },
+  {
+    "head": "Dennis Luebke",
+    "relation": "related_to",
+    "tail": "Darrel Voeks"
+  },
+  {
+    "head": "Party",
+    "relation": "affiliated_with",
+    "tail": "Mangosuthu Buthelezi"
+  },
+  {
+    "head": "Poland",
+    "relation": "located_in",
+    "tail": "Switzerland"
+  },
+  {
+    "head": "Cuttitta",
+    "relation": "related_to",
+    "tail": "World Cup"
+  },
+  {
+    "head": "Newmont",
+    "relation": "related_to",
+    "tail": "Santa Fe"
+  },
+  {
+    "head": "Campese",
+    "relation": "travels_to",
+    "tail": "England"
+  },
+  {
+    "head": "Pakistan",
+    "relation": "related_to",
+    "tail": "New Zealand"
+  },
+  {
+    "head": "Yangon Institute of Technology",
+    "relation": "located_in",
+    "tail": "Rangoon"
+  },
+  {
+    "head": "Yevgeny Kafelnikov",
+    "relation": "related_to",
+    "tail": "Jim Courier"
+  },
+  {
+    "head": "FIFA",
+    "relation": "plays_for",
+    "tail": "Liberian"
+  },
+  {
+    "head": "BV",
+    "relation": "affiliated_with",
+    "tail": "Australia"
+  },
+  {
+    "head": "Laurent Kabila",
+    "relation": "located_in",
+    "tail": "Goma"
+  },
+  {
+    "head": "Susi Susanti",
+    "relation": "related_to",
+    "tail": "Han Jingna"
+  },
+  {
+    "head": "Italy",
+    "relation": "related_to",
+    "tail": "Marcello Cuttitta"
+  },
+  {
+    "head": "Blaise Compaore",
+    "relation": "related_to",
+    "tail": "Bangui"
+  },
+  {
+    "head": "Woolmer",
+    "relation": "related_to",
+    "tail": "England"
+  },
+  {
+    "head": "Edwina Currie",
+    "relation": "related_to",
+    "tail": "BBC"
+  },
+  {
+    "head": "Oval",
+    "relation": "affiliated_with",
+    "tail": "Hobart"
+  },
+  {
+    "head": "Newmont",
+    "relation": "travels_to",
+    "tail": "Santa Fe"
+  },
+  {
+    "head": "General Agreement on Tariffs and Trade",
+    "relation": "located_in",
+    "tail": "General Agreement on Tariffs and Trade"
+  },
+  {
+    "head": "FIFA",
+    "relation": "related_to",
+    "tail": "Albania"
+  },
+  {
+    "head": "Camilla Martin",
+    "relation": "related_to",
+    "tail": "Wang Chen"
+  },
+  {
+    "head": "Council",
+    "relation": "affiliated_with",
+    "tail": "China"
+  },
+  {
+    "head": "Office",
+    "relation": "affiliated_with",
+    "tail": "Britain"
+  },
+  {
+    "head": "Radiometer",
+    "relation": "affiliated_with",
+    "tail": "Denmark"
+  },
+  {
+    "head": "Australia",
+    "relation": "related_to",
+    "tail": "David Campese"
+  },
+  {
+    "head": "Jews",
+    "relation": "affiliated_with",
+    "tail": "Poland"
+  },
+  {
+    "head": "West Indies",
+    "relation": "related_to",
+    "tail": "Sherwin Campbell"
+  },
+  {
+    "head": "Baril",
+    "relation": "related_to",
+    "tail": "Laurent Kabila"
+  },
+  {
+    "head": "Alexander Livshits",
+    "relation": "related_to",
+    "tail": "Norilsk Nickel"
+  },
+  {
+    "head": "George Weah",
+    "relation": "located_in",
+    "tail": "Dejan Savicevic"
+  },
+  {
+    "head": "Congress",
+    "relation": "affiliated_with",
+    "tail": "Nelson Mandela"
+  },
+  {
+    "head": "West Indies",
+    "relation": "located_in",
+    "tail": "Australia"
+  },
+  {
+    "head": "Charlton",
+    "relation": "plays_for",
+    "tail": "Ireland"
+  },
+  {
+    "head": "Budi Santoso",
+    "relation": "related_to",
+    "tail": "Hu Zhilan"
+  },
+  {
+    "head": "Mike Cito",
+    "relation": "related_to",
+    "tail": "School"
+  },
+  {
+    "head": "Brian Shimer",
+    "relation": "travels_to",
+    "tail": "USA III"
+  },
+  {
+    "head": "Jean van Boxmeer",
+    "relation": "located_in",
+    "tail": "Reuters"
+  },
+  {
+    "head": "Cup",
+    "relation": "affiliated_with",
+    "tail": "African Cup Winners ' Cup"
+  },
+  {
+    "head": "Arafat",
+    "relation": "plays_for",
+    "tail": "Cairo"
+  }
+]
